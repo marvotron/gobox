@@ -1,0 +1,29 @@
+GoBox
+=====
+
+A set of extensions and components built upon the GoASAP animation platform from Moses Gunesch.
+
+The Go ActionScript Animation Platform ("GOASAP") is a lightweight, portable set of generic base classes for building AS3 animation tools. 
+Go provides structure and core functionality, but leaves the specifics to you.
+
+All GoBox source files are released under the MIT License.
+
+(c) 2008 Martin Wood-Mitrovski
+
+mdk@relivethefuture.com
+
+http://relivethefuture.com
+
+Dependencies
+============
+
+Some parts of the source code rely on the Bit-101 Minimal Components Set developed by Keith Peters
+
+The SVN for those components is here :
+
+http://minimalcomps.googlecode.com/svn/trunk
+
+The main google code page for the components is here :
+
+http://code.google.com/p/minimalcomps/
+
